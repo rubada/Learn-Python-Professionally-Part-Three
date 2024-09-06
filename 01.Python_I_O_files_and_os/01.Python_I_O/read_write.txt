@@ -1,0 +1,4 @@
+Intuidemy is an educational YouTube channel, our first course is "Learn Python Professionally".
+Python is an important programming language.
+Python is widely spread because it is essential if you want to start your career in AI, such as machine learning and deep learning.
+Start your learning journey now, start with Python.

@@ -1,0 +1,1 @@
+Hello, I am text2.txt in "06.Python_I_O_files_and_os" directory.
