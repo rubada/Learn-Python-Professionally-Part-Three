@@ -1,4 +1,4 @@
-# Python Files Handling
+# Python File Handling
 # In Python, you can handle files using the open() function.
 # Syntax:
 # open(filename, mode)
