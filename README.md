@@ -9,7 +9,7 @@ Advance your skills and start your career here, by taking the online courses on 
 #### [Check Learn-Python-Professionally-Part-Two](https://github.com/rubada/Learn-Python-Professionally-Part-Two).
 
 
-In Learn-Python-Professionally-Part-Three, many subject will be discussed such as Python Files Input/Output and "os" Module, Error Handling, Generators and more.
+In Learn-Python-Professionally-Part-Three, many subject will be discussed in this part, such as Python Files Input/Output and "os" Module, Error Handling, Generators and more.
 
 To learn more about this course, please check below course contents, all the videos related to this course are on my youtube channel [Intuidemy](https://www.youtube.com/@Intuidemy/playlists).
 
