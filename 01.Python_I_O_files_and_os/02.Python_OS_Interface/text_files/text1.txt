@@ -1,0 +1,2 @@
+Hello, I am text1.txt file in the "text_files" directory, which is created inside
+"02.Python_OS_Interface" directory.
