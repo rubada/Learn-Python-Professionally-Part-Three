@@ -14,3 +14,4 @@ In Learn-Python-Professionally-Part-Three, many subject will be discussed in thi
 To learn more about this course, please check below course contents, all the videos related to this course are on my youtube channel [Intuidemy](https://www.youtube.com/@Intuidemy/playlists).
 
 01. [Python files Input/Output and "os" Module.](https://www.youtube.com/playlist?list=PLD06In0ejHWaCZTlHP6piwnPzgIWu-54r)
+02. [Python Errors or Exceptions Handling.](https://www.youtube.com/playlist?list=PLD06In0ejHWZIhNJyfoPB8b022mgx6Yk7)
