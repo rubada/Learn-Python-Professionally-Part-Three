@@ -61,3 +61,37 @@ file_path = os.path.join(script_dir, 'text.txt')
 #         print(float(line))
 
 # print(file.closed)
+
+
+# How to handle the errors in context manager:
+
+class FileIORev:
+
+    def __init__(self, filename, mode):
+        self.filename = filename
+        self.mode = mode
+
+    def __enter__(self):
+        print(f'The file {self.filename} is opened.')
+        self.__file = open(self.filename, self.mode)
+        return self.__file
+
+    def __exit__(self, exc_type, exc_value, exc_tb):
+        print(f'The file {self.filename} is closed.')
+        if not self.__file.closed:
+            self.__file.close()
+
+        # Handle ValueError here:
+        if isinstance(exc_value, ValueError):
+            print(f"An exception occurred in your with block: {exc_type}")
+            print(f"Exception message: {exc_value}")
+            # print(f"Traceback Object: {exc_tb}")
+            print(f"Traceback {traceback.extract_tb(exc_tb, limit=None)}")
+        return True
+
+
+with FileIORev(file_path, 'r') as file:
+    for line in file:
+        print(float(line))
+
+print(file.closed)
