@@ -48,7 +48,7 @@ text_dir = os.path.dirname(path_text)
 
 # That's why we always use the "join()" with the "dirname()", as shown below:
 
-# Path to the the directory "02.Python_OS_Interface", where our script
+# Path to the directory "02.Python_OS_Interface", where our script
 # file is located, "__file__" attribute refers to the path where our script
 # file is located.
 
