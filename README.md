@@ -5,8 +5,11 @@ Advance your skills and start your career here, by taking the online courses on 
 
 طور مهاراتك وابدأ حياتك المهنية هنا، من خلال حضور الدورات التدريبية على قناتنا. دورتنا الأولى هي دورة بايثون. تفتح بايثون العديد من فرص العمل، مثل عالم ومحلل البيانات، والذكاء الاصطناعي، ومهندس البيانات، ومختبر الأتمتة والمزيد. إذا كانت بايثون هي ما تبحث عنه، فابدأ هنا واشترك لتلقي إشعارات حول دوراتنا الجديدة
 
-#### [Check Learn-Python-Professionally-Part-One](https://github.com/rubada/Learn-Python-Professionally-Part-One).
-#### [Check Learn-Python-Professionally-Part-Two](https://github.com/rubada/Learn-Python-Professionally-Part-Two).
+### Check our other courses:
+#### [Learn-Python-Professionally-Part-One](https://github.com/rubada/Learn-Python-Professionally-Part-One).
+#### [Learn-Python-Professionally-Part-Two](https://github.com/rubada/Learn-Python-Professionally-Part-Two).
+#### [Machine-Learning-with-Ruba-Dabbas](https://github.com/rubada/Machine-Learning-with-Ruba-Dabbas).
+#### [Testing-in-Python-with-pytest](https://github.com/rubada/Testing-in-Python-with-pytest).
 
 
 In Learn-Python-Professionally-Part-Three, many subject will be discussed in this part, such as Python Files Input/Output and "os" Module, Error Handling, Generators and more.
