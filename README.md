@@ -10,6 +10,7 @@ Advance your skills and start your career here, by taking the online courses on 
 #### [Learn-Python-Professionally-Part-Two](https://github.com/rubada/Learn-Python-Professionally-Part-Two).
 #### [Machine-Learning-with-Ruba-Dabbas](https://github.com/rubada/Machine-Learning-with-Ruba-Dabbas).
 #### [Testing-in-Python-with-pytest](https://github.com/rubada/Testing-in-Python-with-pytest).
+#### [Django-Tutorials](https://github.com/rubada/Django-Tutorials).
 
 
 In Learn-Python-Professionally-Part-Three, many subject will be discussed in this part, such as Python Files Input/Output and "os" Module, Error Handling, Generators and more.
